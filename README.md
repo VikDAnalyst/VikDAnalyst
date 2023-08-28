@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omokadejo
+- 👋 Hi, I’m VikDAnalyst.
 - 👀 I’m interested in Data Science, Data Visualization, and Data Analytics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
