@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Visualization, and Data Analytics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
-- 📫 How to reach me via victor.lumipedia@gmail.com
+- 📫 You can reach me via victor.lumipedia@gmail.com
 
 <!---
 Omokadejo/Omokadejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
