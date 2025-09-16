@@ -1,5 +1,5 @@
-- 👋 Hi, I’m VikDAnalyst.
-- 👀 I’m interested in Data Science, Data Visualization, and Data Analytics.
+- 👋 Hi, I’m Victor Ademola.
+- 👀 I’m interested in Data Science, Machine Learning, Data Visualization, and Data Analytics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 You can reach me via victor.lumipedia@gmail.com
