@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, Data Visualization, and Data Analytics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
-- ✨ I'm skill at using python, SQL, Excel, Power BI 
+- ✨ I'm skilled at using Python, SQL, Excel, and Power BI 
 - 📫 You can reach me via victor.lumipedia@gmail.com
 
 <!---
